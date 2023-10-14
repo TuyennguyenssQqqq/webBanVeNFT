@@ -1,0 +1,38 @@
+header{
+    /* width: 100% !important; */
+    background-color: #1C2039;
+}
+
+.header{
+
+}
+
+.header__logo {
+
+}
+
+.header__logo img {
+    border-radius: 10px;
+}
+
+.header__logo span {
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.header__menu ul li {
+    font-weight: 500;
+}
+
+.header__menu ul li a {
+    color: #b2b2b2;
+}
+
+.header__menu ul li a:hover {
+    color: #fff;
+}
+
+.header__menu .active{
+    color: #fff !important; 
+}
