@@ -1,11 +1,12 @@
 header{
     /* width: 100% !important; */
-    background-color: #1C2039;
+    /* background-color: #1C2039; */
 }
 
 .header{
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
+    background-color: #1C2039;
 }
 
 .header__logo {
