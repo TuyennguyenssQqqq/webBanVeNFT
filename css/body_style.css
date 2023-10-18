@@ -1,0 +1,23 @@
+body {
+    
+}
+.body {
+    background-color: #1C2039;
+}
+
+.body__text h1{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 600;
+}
+
+.body__text p{
+    font-family: 'Inter', sans-serif;
+    color: #B2B2B2;
+}
+
+.body__text button{
+    padding: 10px 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}

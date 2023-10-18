@@ -4,7 +4,8 @@ header{
 }
 
 .header{
-
+    position: fixed;
+    width: 100%;
 }
 
 .header__logo {
@@ -35,4 +36,30 @@ header{
 
 .header__menu .active{
     color: #fff !important; 
+}
+
+.header__wallet{
+    color: #fff;
+}
+
+.header__wallet span{
+    margin-right: 5px;
+}
+
+.header__wallet a {
+    font-family: 'Roboto Condensed', sans-serif;
+    border: 2px solid #fff;
+    padding: 10px 20px 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    transition: 1.5s;
+    font-weight: 600;
+}
+
+.header__wallet a:hover{
+    /* color: #000;
+    background-color: #fff;
+    transition: 0.7s; */
 }
